@@ -60,7 +60,7 @@ class AkeneoClient:
                 data=payload,
                 headers=headers)
 
-# the values are fake but representatives to give some hindsight
+# the values are fake but representatives to give some insight
 client_id = '6_4h58cz2rfsao0kosowwo4ccccs4koo0484ogc448wsw044sg4g'
 secret = '3u6ov39op728048sc4k00gkg4s84w44kwo8w80k8os8cog0oss'
 username = 'inject_1143'
